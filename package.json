@@ -1,5 +1,5 @@
 {
-  "name": "LYNA AI",
+  "name": "lyna-ai",
   "version": "1.6.0",
   "description": "A WhatsApp bot using Baileys and Betabotz API.",
   "main": "index.js",
