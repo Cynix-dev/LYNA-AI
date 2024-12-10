@@ -1,0 +1,26 @@
+{
+  "name": "LYNA AI",
+  "version": "1.6.0",
+  "description": "A WhatsApp bot using Baileys and Betabotz API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "api",
+    "chatbot"
+  ],
+  "author": "Cynix",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.0.0",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "chokidar": "^3.5.1"
+  }
+}
