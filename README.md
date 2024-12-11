@@ -15,7 +15,7 @@ Lyna-AI adalah bot cerdas yang dirancang untuk menemani dan membantu pengguna da
 ## Teknologi
 
 - **Bahasa Pemrograman**: JavaScript
-- **Framework**: Lunex
+- **Framework**: Flume by cynix
 - **Library**: [Baileys](https://github.com/adiwajshing/Baileys)
 
 ## Instalasi
