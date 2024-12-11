@@ -22,13 +22,17 @@ Lyna-AI adalah bot cerdas yang dirancang untuk menemani dan membantu pengguna da
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/DaniMulyawan/LYNA-AI
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd repo-name
+   cd LYNA-AI
    ```
 3. Install dependensi yang diperlukan:
+   ```bash
+   yarn install
+   ```
+   Atau
    ```bash
    npm install
    ```
@@ -37,7 +41,11 @@ Lyna-AI adalah bot cerdas yang dirancang untuk menemani dan membantu pengguna da
 
 Untuk menjalankan bot, gunakan perintah berikut:
 ```bash
-node lyna_ai_bot.js
+npm start
+```
+Atau
+```bash
+yarn install
 ```
 
 ## Kontribusi
@@ -56,7 +64,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya, Dani Gabteng, di [email@example.com].
+Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya, Dani Ganteng, di [danz230623@gmail.com].
 
 ---
 
