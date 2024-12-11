@@ -66,7 +66,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya, Dani Ganteng, di [danz230623@gmail.com].
 
-[audio autoplay](https://youtu.be/sfX6_DN7VyA?si=Eo716Fbuwrox0AiD)]
+[audio autoplay](Greedy (Slowed Reverb) - Its Obvious That You Want Me, I Would Want Myself.mp3)]
 
 ---
 
