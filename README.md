@@ -67,18 +67,6 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya, Dani Ganteng, di [danz230623@gmail.com].
 
 [![audio autoplay](https://youtu.be/sfX6_DN7VyA?si=Eo716Fbuwrox0AiD)]
-<!-- Iframe YouTube untuk memutar audio -->
-<div class="youtube-audio">
-    <iframe
-        width="300"
-        height="150"
-        src="https://www.youtube.com/embed/sfX6_DN7VyA?si=Eo716Fbuwrox0AiD&autoplay=1&controls=0&loop=1"
-        title="YouTube audio"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-    </iframe>
-</div>
 
 ---
 
